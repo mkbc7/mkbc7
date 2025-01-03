@@ -2,7 +2,7 @@
 - 👀 I’m interested in web3 & infosec
 - 🌱 I’m currently learning solidity & web3
 - 💞️ I’m looking to collaborate on web3 and infosec projects 
-- 📫 How to reach me discord MCEE#9967
+- 📫 How to reach me discord hm_7777
 
 <!---
 mkbc7/mkbc7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
